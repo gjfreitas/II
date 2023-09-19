@@ -1,0 +1,3 @@
+Os ficheiros PHP e html estão em: C:\xampp\htdocs. Os ficheiros que lá estavam metemos na pasta CENAS para so usar as coisas da aula.
+
+Isto usa a BD feita na aula pratica 11.
